@@ -18,7 +18,7 @@
 
 ## Magnetic Mirrors
 
-- *Realta generic model (**Requested**)*
+- Realta representative mirror model
 
 ## Inertial Confinement
 
